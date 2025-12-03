@@ -1,4 +1,5 @@
-import "./globals.css";
+// app/layout.jsx
+import "../styles/globals.css";
 
 export const metadata = {
   title: "Mohammad Shahid Mir — Graphic Designer",
